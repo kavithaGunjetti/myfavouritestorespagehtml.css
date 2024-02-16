@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.favoutite-store-bg-container {
+    background-color: #894bca;
+    height: 40vh;
+    padding-top: 20px;
+}
+
+.stores-image {
+    height: 200px;
+    width: 200px;
+}
+
+.top-section-heading {
+    color: #ffffff;
+    font-family: "Breeserif";
+    font-size: 25px;
+    font-weight: bold;
+    margin: 15px;
+}
+
+.stores-card-container {
+    background-color: #ffffff;
+    border-radius: 15px;
+    padding: 20px;
+
+}
+
+.card-heading {
+    color: #f780c3;
+    font-family: "Breeserif";
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.amazon-logo {
+    height: 50px;
+    width: 50px;
+}
+
+.store-name {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.store-details {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: #7b8794;
+    font-weight: 200;
+}
+
+.text-container {
+    margin-left: 15px;
+}
